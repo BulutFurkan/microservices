@@ -1,5 +1,6 @@
 package comfurkanbulut.auth.domain.auth.api.config;
 
+import comfurkanbulut.auth.domain.user.api.Role;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jws;
 import io.jsonwebtoken.Jwts;
